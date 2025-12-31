@@ -1,0 +1,6 @@
+progressbar
+requests
+PyQt5
+fastapi
+uvicorn
+
